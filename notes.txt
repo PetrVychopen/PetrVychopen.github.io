@@ -1,5 +1,0 @@
-POWERSHELL CORE
-https://youtu.be/sQm4zRvvX58
-
-// nepoužívat alias příkazy, pokud píši skript (kvůli kompatibilitě a portabilitě)
-    př. dir je pouze "přezdívka" pro Get-ChildItem (seznam všech alias Get-Alias)
