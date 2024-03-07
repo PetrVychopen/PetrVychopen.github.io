@@ -1,4 +1,4 @@
-# Analyst / Low-Code Developer
+# Analyst | Low-Code Developer
 
 ### Education
 The Quality, Reliability and Safety, Ing. @ [Brno University of Technology](https://www.vut.cz/en/)
