@@ -1,7 +1,7 @@
 # Analyst / Low-Code Developer
 
 ### Education
-Quality, Reliability and Safety in industry, Ing. @ [Brno University of Technology](https://www.vut.cz/en/)
+The Quality, Reliability and Safety, Ing. @ [Brno University of Technology](https://www.vut.cz/en/)
 
 ### Work Experience
 #### Analyst @ [Direct technologies](https://www.direct-technologies.cz/)
