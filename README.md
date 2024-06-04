@@ -5,28 +5,28 @@ The Quality, Reliability and Safety, Ing. @ [Brno University of Technology](http
 
 ### Work Experience
 #### Analyst @ [Direct technologies](https://www.direct-technologies.cz/)
-- product owner support
-- product configuration in internal core system
-- user interface and wireframe creation
-- low-code development
+- Supported product owners in defining and prioritizing requirements, increasing project delivery speed.
+- Configured products within the internal core system, improving system efficiency or creating new features.
+- Created user interfaces and wireframes using Figma and Balsamiq, enhancing user experience and reducing development time.
+- Developed low-code solutions, streamlining workflow automation and reducing manual tasks.
 
 ### Hard skills
-- python
-- postgresql
-- figma
-- balsamiq
-- powershell
-- excelapi
+- Python
+- PostgreSQL
+- Figma
+- Balsamiq
+- PowerShell
+- ExcelAPI
 
 ### Soft skills
-- direct
-- adaptable
-- pragmatic
-- analytical
-- patient
-- altruistic
+- Direct
+- Adaptable
+- Pragmatic
+- Analytical
+- Patient
+- Altruistic
 
 ### Achievements & Certificates
-- python academy @ [Engeto](https://engeto.cz/)
-- postgresql course @ [Anywhere](https://education.anywhere.cz/)
-- contribution to [Age of Defenders](https://apps.apple.com/us/app/age-of-defenders-multiplayer-tower-defense-and/id960361437) @ [Tinysoft](https://www.tinysoft.sk/en/home-english/)
+- Python Academy @ [Engeto](https://engeto.cz/)
+- PostgreSQL Course @ [Anywhere](https://education.anywhere.cz/)
+- Contribution to [Age of Defenders](https://apps.apple.com/us/app/age-of-defenders-multiplayer-tower-defense-and/id960361437) @ [Tinysoft](https://www.tinysoft.sk/en/home-english/)
