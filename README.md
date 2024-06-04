@@ -4,7 +4,7 @@
 The Quality, Reliability and Safety, Ing. @ [Brno University of Technology](https://www.vut.cz/en/)
 
 ### Work Experience
-#### Analyst @ [Direct technologies](https://www.direct-technologies.cz/)
+#### Analyst @ [Direct technologies](https://www.direct-technologies.cz/) [2021–⁠null]
 - Supported product owners in defining and prioritizing requirements, increasing project delivery speed.
 - Configured products within the internal core system, improving system efficiency or creating new features.
 - Created user interfaces and wireframes using Figma and Balsamiq, enhancing user experience and reducing development time.
