@@ -18,14 +18,6 @@ The Quality, Reliability and Safety, Ing. @ [Brno University of Technology](http
 - PowerShell
 - ExcelAPI
 
-### Soft skills
-- Direct
-- Adaptable
-- Pragmatic
-- Analytical
-- Patient
-- Altruistic
-
 ### Achievements & Certificates
 #### Python Academy @ [Engeto](https://engeto.cz/) [2024]
 - Introduction to programming with Python (conditions, methods, loops, libraries, functions, web scraping, etc.).
